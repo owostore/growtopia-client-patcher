@@ -1,4 +1,6 @@
 _latestVersion = "4.1"
+_contact = "오떱이#4940 on the Discord"
+
 _updateLogs = {}
 
 _updateLogs["4.1"] = [[
