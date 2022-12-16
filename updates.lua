@@ -1,3 +1,4 @@
+_latestVersion = "4.1"
 _updateLogs = {}
 
 _updateLogs["4.1"] = [[
